@@ -1,9 +1,8 @@
 Hello World!
 
 - 👋 I’m @luaavilagu
-- 👀 I’m interested in IoT, Systemic Thinking,... (endless list)
-- 🌱 I’m currently learning OCI, Linux, portuguese
-- 💞️ I’m looking to collaborate on whatever I can learn
+- 👀 I’m interested in IoT, Systemic Thinking, Cloud, Human Behavior...
+- 🌱 I’m currently learning portuguese, IT architectures
 - 📫 LinkedIn profile https://www.linkedin.com/in/luis-alejandro-avila-guevara-8ab202142/
 
 <!---
